@@ -93,7 +93,7 @@ USB and external storage devices are blocked for users within the targeted OU.
 
 ## 📸 Screenshots
 
-- [Active Directory Domain Structure](https://github.com/your-username/your-repo/blob/main/screenshots/ad-structure.png)
+- [Active Directory Domain Structure](https://github.com/sanusi-droid/ad-deployment/blob/main/screenshots/cloud.PNG)
 - [GPO Configuration Screenshot](https://github.com/your-username/your-repo/blob/main/screenshots/gpo-config.png)
 - [Client Joined to Domain](https://github.com/your-username/your-repo/blob/main/screenshots/domain-join.png)
 - [USB Access Denied Result](https://github.com/your-username/your-repo/blob/main/screenshots/usb-denied.png)
